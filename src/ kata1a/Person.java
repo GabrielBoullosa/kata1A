@@ -38,13 +38,8 @@ public class Person {
                 SECONDS_PER_MINUTE * MINUTES_PER_HOUR *
                 HOURS_PER_DAY * DAYS_PER_YEAR;
                 
-        
+       
     }
-
-    private int XXX(double d) {
-        
-    }
-    
     
     
 }
